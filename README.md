@@ -1,6 +1,6 @@
 # React Tutorial by @labx
 
-* [Week 1](react-week-1): Setup React + Webpack, Learn about React, State and Props
+* [Week 1](react-week-1): Setup React + Webpack, Learn about React, State and Props. [Blogspot](http://blog.duyetdev.com/2016/06/react-redux-chap-1.html)
 
 # Author 
 
