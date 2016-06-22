@@ -5,6 +5,8 @@
 * Using ES6 to write React Component
 * `State` and `Props` in React
 
+See blogspot: http://blog.duyetdev.com/2016/06/react-redux-chap-1.html
+
 # Install 
 
 ```
